@@ -1,0 +1,16 @@
+{
+    "CourseList": [
+        {"course_id": "1", "course_name": "货币金融学", "course_label": ["经济学"], "course_affiliation": ["西南财经大学"], "course_teacher": ["翁舟杰"]},
+        {"course_id": "2", "course_name": "金融风险管理", "course_label": ["经济学"], "course_affiliation": ["武汉理工大学"], "course_teacher": ["喻平"]},
+        {"course_id": "3", "course_name": "国际金融学", "course_label": ["经济学"], "course_affiliation": ["新疆财经大学"], "course_teacher": ["周丽华"]},
+        {"course_id": "4", "course_name": "公司金融", "course_label": ["经济学"], "course_affiliation": ["江西财经大学"], "course_teacher": ["潜力"]},
+        {"course_id": "5", "course_name": "互联网金融理论与应用", "course_label": ["经济学"], "course_affiliation": ["苏州市职业大学"], "course_teacher": ["周雷"]},
+        {"course_id": "6", "course_name": "金融学原理", "course_label": ["经济学"], "course_affiliation": ["上海交通大学"], "course_teacher": ["唐宗明"]},
+        {"course_id": "7", "course_name": "金融理论与政策", "course_label": ["经济学"], "course_affiliation": ["中央财经大学"], "course_teacher": ["李建军"]},
+        {"course_id": "8", "course_name": "金融法学", "course_label": ["经济学"], "course_affiliation": ["浙江财经大学"], "course_teacher": ["曾章伟"]},
+        {"course_id": "9", "course_name": "金融工程概论", "course_label": ["经济学"], "course_affiliation": ["对外经济贸易大学"], "course_teacher": ["冯建芬"]},
+        {"course_id": "10", "course_name": "金融风险管理", "course_label": ["经济学"], "course_affiliation": ["东华大学"], "course_teacher": ["朱淑珍"]}
+
+    ]
+}
+

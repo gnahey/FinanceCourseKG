@@ -1,0 +1,3014 @@
+{
+    "RECORDS": [
+        {
+            "course_id": "1",
+            "course_name": "货币金融学",
+            "course_label": "经济学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "翁舟杰"
+        },
+        {
+            "course_id": "2",
+            "course_name": "金融风险管理",
+            "course_label": "经济学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "喻平 沈蕾 石丹"
+        },
+        {
+            "course_id": "3",
+            "course_name": "国际金融学",
+            "course_label": "经济学",
+            "course_affiliation": "新疆财经大学",
+            "course_teacher": "周丽华 张喜玲 刘辉"
+        },
+        {
+            "course_id": "4",
+            "course_name": "公司金融",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "潜力 胡援成 胡军"
+        },
+        {
+            "course_id": "5",
+            "course_name": "互联网金融理论与应用",
+            "course_label": "经济学",
+            "course_affiliation": "苏州市职业大学",
+            "course_teacher": "周雷 吴文英 赵扬"
+        },
+        {
+            "course_id": "6",
+            "course_name": "金融学原理",
+            "course_label": "经济学",
+            "course_affiliation": "上海交通大学",
+            "course_teacher": "唐宗明 沈思玮 王松涛"
+        },
+        {
+            "course_id": "7",
+            "course_name": "金融理论与政策",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "李建军 李健 马亚"
+        },
+        {
+            "course_id": "8",
+            "course_name": "金融法学",
+            "course_label": "经济学",
+            "course_affiliation": "浙江财经大学",
+            "course_teacher": "曾章伟"
+        },
+        {
+            "course_id": "9",
+            "course_name": "金融工程概论",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "冯建芬 余湄 邓军"
+        },
+        {
+            "course_id": "10",
+            "course_name": "金融风险管理",
+            "course_label": "经济学",
+            "course_affiliation": "东华大学",
+            "course_teacher": "朱淑珍 吉余峰 顾海峰"
+        },
+        {
+            "course_id": "11",
+            "course_name": "互联网金融概论",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "李建军 蔡如海 欧阳日辉"
+        },
+        {
+            "course_id": "12",
+            "course_name": "金融工程学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉大学",
+            "course_teacher": "叶永刚"
+        },
+        {
+            "course_id": "13",
+            "course_name": "金融工程概论",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "王辉 刘向丽 高言"
+        },
+        {
+            "course_id": "14",
+            "course_name": "金融衍生品",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "王军"
+        },
+        {
+            "course_id": "15",
+            "course_name": "金融风险管理",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "苟琴 姜富伟 方意"
+        },
+        {
+            "course_id": "16",
+            "course_name": "国际金融学",
+            "course_label": "经济学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "路妍 姜学军 禹钟华"
+        },
+        {
+            "course_id": "17",
+            "course_name": "金融市场学",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "何丽芬 严渝军 屈满学"
+        },
+        {
+            "course_id": "18",
+            "course_name": "金融学",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "李健 左毓秀 黄昌利"
+        },
+        {
+            "course_id": "19",
+            "course_name": "金融信息系统",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "狄国强 廖国琼 刘德喜"
+        },
+        {
+            "course_id": "20",
+            "course_name": "金融学（二）",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "李健 左毓秀 黄昌利"
+        },
+        {
+            "course_id": "21",
+            "course_name": "金融市场学",
+            "course_label": "经济学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "王振山"
+        },
+        {
+            "course_id": "22",
+            "course_name": "金融审计",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "王家华 许莉 程丽丽"
+        },
+        {
+            "course_id": "23",
+            "course_name": "金融工程学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "石丹 肖才林"
+        },
+        {
+            "course_id": "24",
+            "course_name": "金融营销理论与实务",
+            "course_label": "经济学",
+            "course_affiliation": "河南经贸职业学院",
+            "course_teacher": "张洁 王延召 张阳子"
+        },
+        {
+            "course_id": "25",
+            "course_name": "行为金融学",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "黄瑜琴 高言 姜富伟"
+        },
+        {
+            "course_id": "26",
+            "course_name": "金融服务营销",
+            "course_label": "经济学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "丁宁"
+        },
+        {
+            "course_id": "27",
+            "course_name": "金融理论与实务",
+            "course_label": "经济学",
+            "course_affiliation": "河南经贸职业学院",
+            "course_teacher": "崔奇 王延召 张洁"
+        },
+        {
+            "course_id": "28",
+            "course_name": "国际金融学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "沈蕾 刘华 周玉荣"
+        },
+        {
+            "course_id": "29",
+            "course_name": "财富管理的艺术：金融工具与风险管理",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "邹瑾 陈小凡 徐子尧"
+        },
+        {
+            "course_id": "30",
+            "course_name": "行为金融学",
+            "course_label": "经济学",
+            "course_affiliation": "上海师范大学",
+            "course_teacher": "李刚"
+        },
+        {
+            "course_id": "31",
+            "course_name": "货币金融学",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "蒋先玲"
+        },
+        {
+            "course_id": "32",
+            "course_name": "国际金融",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "汪洋 刘兴华 胡少勇"
+        },
+        {
+            "course_id": "33",
+            "course_name": "行为金融学",
+            "course_label": "经济学",
+            "course_affiliation": "中南大学",
+            "course_teacher": "饶育蕾"
+        },
+        {
+            "course_id": "34",
+            "course_name": "互联网金融基础",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "吴金旺 申睿 郑莉琨"
+        },
+        {
+            "course_id": "35",
+            "course_name": "货币金融学",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "张红伟 赵颖岚 邓奇志"
+        },
+        {
+            "course_id": "36",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "南昌大学",
+            "course_teacher": "李俭峰 万弋芳 邵汉华"
+        },
+        {
+            "course_id": "37",
+            "course_name": "R语言与金融数据分析",
+            "course_label": "经济学",
+            "course_affiliation": "浙江工商大学",
+            "course_teacher": "方霞 邓弋威"
+        },
+        {
+            "course_id": "38",
+            "course_name": "国际金融学",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "张礼卿"
+        },
+        {
+            "course_id": "39",
+            "course_name": "房地产金融与投资",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "陈俊华 王优容 李文斌"
+        },
+        {
+            "course_id": "40",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "河北经贸大学",
+            "course_teacher": "李文哲 李中秋"
+        },
+        {
+            "course_id": "41",
+            "course_name": "货币银行学",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "杨荣 孙爱琳 舒海棠"
+        },
+        {
+            "course_id": "42",
+            "course_name": "金融工程学入门",
+            "course_label": "经济学",
+            "course_affiliation": "福州外语外贸学院",
+            "course_teacher": "沈育展 高鸿业"
+        },
+        {
+            "course_id": "43",
+            "course_name": "货币金融学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "胡国晖 许黎惠 方建珍"
+        },
+        {
+            "course_id": "44",
+            "course_name": "金融风险管理",
+            "course_label": "经济学",
+            "course_affiliation": "郑州大学",
+            "course_teacher": "郭战琴 陈鹏程 任其俊"
+        },
+        {
+            "course_id": "45",
+            "course_name": "国际金融",
+            "course_label": "经济学",
+            "course_affiliation": "天津财经大学",
+            "course_teacher": "孟昊 王学龙 王小雪"
+        },
+        {
+            "course_id": "46",
+            "course_name": "金融学基础",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "电子科技大学",
+            "course_teacher": "李强 刘波 李平"
+        },
+        {
+            "course_id": "47",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "湖南大学",
+            "course_teacher": "张强 喻旭兰 乔海曙"
+        },
+        {
+            "course_id": "48",
+            "course_name": "公司金融学",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "许志"
+        },
+        {
+            "course_id": "49",
+            "course_name": "公司金融",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "王汀汀 杜惠芬 魏旭"
+        },
+        {
+            "course_id": "50",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "河南财经政法大学",
+            "course_teacher": "李莉莉 徐元铖 李华"
+        },
+        {
+            "course_id": "51",
+            "course_name": "金融学基础",
+            "course_label": "经济学",
+            "course_affiliation": "华中科技大学",
+            "course_teacher": "欧阳红兵"
+        },
+        {
+            "course_id": "52",
+            "course_name": "国际金融学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉大学",
+            "course_teacher": "何国华"
+        },
+        {
+            "course_id": "53",
+            "course_name": "货币金融学",
+            "course_label": "经济学",
+            "course_affiliation": "集美大学",
+            "course_teacher": "谢绵陛 肖扬清 张玉凤"
+        },
+        {
+            "course_id": "54",
+            "course_name": "公司金融",
+            "course_label": "经济学",
+            "course_affiliation": "北京交通大学",
+            "course_teacher": "叶蜀君 邱奇"
+        },
+        {
+            "course_id": "55",
+            "course_name": "国际金融实务",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "吴青 刘园 许亦平"
+        },
+        {
+            "course_id": "56",
+            "course_name": "国际金融学",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "湖南大学",
+            "course_teacher": "杨胜刚 姚小义 吴志明"
+        },
+        {
+            "course_id": "57",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "尹志超"
+        },
+        {
+            "course_id": "58",
+            "course_name": "金融统计实务",
+            "course_label": "经济学",
+            "course_affiliation": "北京师范大学",
+            "course_teacher": "李昕"
+        },
+        {
+            "course_id": "59",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "郑州航空工业管理学院",
+            "course_teacher": "盛昌琴 李鹏 张安忠"
+        },
+        {
+            "course_id": "60",
+            "course_name": "金融基础知识",
+            "course_label": "",
+            "course_affiliation": "江苏开放大学",
+            "course_teacher": "杨晓焱 徐永兵"
+        },
+        {
+            "course_id": "61",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "孙清 卢亚娟 章建伟"
+        },
+        {
+            "course_id": "62",
+            "course_name": "金融与生活",
+            "course_label": "经济学",
+            "course_affiliation": "北京交通大学",
+            "course_teacher": "叶蜀君"
+        },
+        {
+            "course_id": "63",
+            "course_name": "公司金融",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "江萍"
+        },
+        {
+            "course_id": "64",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "北京信息科技大学",
+            "course_teacher": "徐颖 李玉曼 李宏伟"
+        },
+        {
+            "course_id": "65",
+            "course_name": "金融：魅力财商课",
+            "course_label": "经济学",
+            "course_affiliation": "郑州工程技术学院",
+            "course_teacher": "姜法芹 侯燕 王菲"
+        },
+        {
+            "course_id": "66",
+            "course_name": "国际金融",
+            "course_label": "经济学",
+            "course_affiliation": "吉林大学",
+            "course_teacher": "王倩"
+        },
+        {
+            "course_id": "67",
+            "course_name": "国际金融",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "王叙果 陆凯旋 冯彩"
+        },
+        {
+            "course_id": "68",
+            "course_name": "个人理财",
+            "course_label": "经济学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "陈兵 李文 周新辉"
+        },
+        {
+            "course_id": "69",
+            "course_name": "金融学",
+            "course_label": "经济学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "卞志村 孙玲玲 陈金霞"
+        },
+        {
+            "course_id": "70",
+            "course_name": "货币银行学",
+            "course_label": "经济学",
+            "course_affiliation": "泉州师范学院",
+            "course_teacher": "吴子强 付云 叶颉"
+        },
+        {
+            "course_id": "71",
+            "course_name": "投资学",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "肖欣荣"
+        },
+        {
+            "course_id": "72",
+            "course_name": "互联网金融",
+            "course_label": "",
+            "course_affiliation": "金华职业技术学院",
+            "course_teacher": "陈晟 洪瑛楠 高洁"
+        },
+        {
+            "course_id": "73",
+            "course_name": "区块链技术与应用",
+            "course_label": "计算机",
+            "course_affiliation": "西南交通大学",
+            "course_teacher": "赵其刚"
+        },
+        {
+            "course_id": "74",
+            "course_name": "金融资产定价",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "徐子尧"
+        },
+        {
+            "course_id": "75",
+            "course_name": "国际金融",
+            "course_label": "经济学",
+            "course_affiliation": "南京理工大学紫金学院",
+            "course_teacher": "贺丽丽"
+        },
+        {
+            "course_id": "76",
+            "course_name": "货币银行学",
+            "course_label": "经济学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "范立夫 翟光宇 戴晓兵"
+        },
+        {
+            "course_id": "77",
+            "course_name": "商业银行管理",
+            "course_label": "经济学",
+            "course_affiliation": "上海师范大学",
+            "course_teacher": "茆训诚 邢学艳 敬志勇"
+        },
+        {
+            "course_id": "78",
+            "course_name": "国际经济学",
+            "course_label": "经济学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "佘群芝 徐静 苏应蓉"
+        },
+        {
+            "course_id": "79",
+            "course_name": "生活中的货币时间价值",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "暨南大学",
+            "course_teacher": "程静"
+        },
+        {
+            "course_id": "80",
+            "course_name": "金融学基础",
+            "course_label": "",
+            "course_affiliation": "广州番禺职业技术学院",
+            "course_teacher": "王心如 任碧峰 邹吉艳"
+        },
+        {
+            "course_id": "81",
+            "course_name": "投资学原理与中国市场实践",
+            "course_label": "经济学",
+            "course_affiliation": "上海财经大学",
+            "course_teacher": "朱小能 康文津 周小夏"
+        },
+        {
+            "course_id": "82",
+            "course_name": "商业银行管理学",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "83",
+            "course_name": "保险学概论",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "许飞琼 郝演苏 李晓林"
+        },
+        {
+            "course_id": "84",
+            "course_name": "金融与社会",
+            "course_label": "经济学",
+            "course_affiliation": "北京联合大学",
+            "course_teacher": "陈岩"
+        },
+        {
+            "course_id": "85",
+            "course_name": "期权定价",
+            "course_label": "经济学",
+            "course_affiliation": "南京大学",
+            "course_teacher": "杨学伟"
+        },
+        {
+            "course_id": "86",
+            "course_name": "个人理财",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "张颖"
+        },
+        {
+            "course_id": "87",
+            "course_name": "CFA固定收益证券",
+            "course_label": "经济学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "庞蔡吉 张正宜"
+        },
+        {
+            "course_id": "88",
+            "course_name": "经济法学",
+            "course_label": "法学",
+            "course_affiliation": "西南政法大学",
+            "course_teacher": "盛学军 蒋亚娟 黄茂钦"
+        },
+        {
+            "course_id": "89",
+            "course_name": "证券投资分析",
+            "course_label": "经济学",
+            "course_affiliation": "上海师范大学",
+            "course_teacher": "姚亚伟"
+        },
+        {
+            "course_id": "90",
+            "course_name": "商业银行经营学",
+            "course_label": "经济学",
+            "course_affiliation": "上海财经大学",
+            "course_teacher": "戴国强"
+        },
+        {
+            "course_id": "91",
+            "course_name": "物流学",
+            "course_label": "管理学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "王晓光 肖肖 邹仲海"
+        },
+        {
+            "course_id": "92",
+            "course_name": "金融计量学",
+            "course_label": "经济学",
+            "course_affiliation": "上海财经大学",
+            "course_teacher": "刘莉亚 闵敏"
+        },
+        {
+            "course_id": "93",
+            "course_name": "投资学",
+            "course_label": "经济学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "李新 王强宇 马丽娜"
+        },
+        {
+            "course_id": "94",
+            "course_name": "商业银行管理",
+            "course_label": "经济学",
+            "course_affiliation": "东华大学",
+            "course_teacher": "王千红 刘哲怡"
+        },
+        {
+            "course_id": "95",
+            "course_name": "个人理财业务",
+            "course_label": "",
+            "course_affiliation": "广州番禺职业技术学院",
+            "course_teacher": "吴娜 杨则文 杨丽"
+        },
+        {
+            "course_id": "96",
+            "course_name": "互联网金融",
+            "course_label": "经济学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "帅青红"
+        },
+        {
+            "course_id": "97",
+            "course_name": "生活中的投资学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "李殊琦"
+        },
+        {
+            "course_id": "98",
+            "course_name": "家庭理财",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "大连理工大学",
+            "course_teacher": "姚宏"
+        },
+        {
+            "course_id": "99",
+            "course_name": "网络与人工智能法",
+            "course_label": "法学",
+            "course_affiliation": "南京航空航天大学",
+            "course_teacher": "王建文 熊敬 张书琴"
+        },
+        {
+            "course_id": "100",
+            "course_name": "财务会计Ⅰ",
+            "course_label": "管理学",
+            "course_affiliation": "中国石油大学（北京）",
+            "course_teacher": "许文静 马春爱 张先美"
+        },
+        {
+            "course_id": "101",
+            "course_name": "商业银行业务与经营",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "曹源芳 曹严礼"
+        },
+        {
+            "course_id": "102",
+            "course_name": "保险学",
+            "course_label": "经济学",
+            "course_affiliation": "山东财经大学",
+            "course_teacher": "孙秀清 杜鹃 付红"
+        },
+        {
+            "course_id": "103",
+            "course_name": "中国价值投资",
+            "course_label": "经济学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "高杰英 周晔 张萍"
+        },
+        {
+            "course_id": "104",
+            "course_name": "财经技能直通车",
+            "course_label": "经济学",
+            "course_affiliation": "郑州财税金融职业学院",
+            "course_teacher": "耿聪慧 魏亚芳 张春"
+        },
+        {
+            "course_id": "105",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "王玉宝 王家琪 陆桂贤"
+        },
+        {
+            "course_id": "106",
+            "course_name": "保险理论与实务",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "胡少勇 汪洋 易艺"
+        },
+        {
+            "course_id": "107",
+            "course_name": "国际经济学",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "殷晓鹏 董虹 赵忠秀"
+        },
+        {
+            "course_id": "108",
+            "course_name": "期货与期权",
+            "course_label": "经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "宋斌 林木 井帅"
+        },
+        {
+            "course_id": "109",
+            "course_name": "政府审计学",
+            "course_label": "管理学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "许莉 和秀星 王晓丹"
+        },
+        {
+            "course_id": "110",
+            "course_name": "商业银行经营管理",
+            "course_label": "经济学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "丁宁 高顺芝 赵宁"
+        },
+        {
+            "course_id": "111",
+            "course_name": "投资学",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "刘志东 宋斌 陈暮紫"
+        },
+        {
+            "course_id": "112",
+            "course_name": "中级宏观经济学",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "陆长平 李国民"
+        },
+        {
+            "course_id": "113",
+            "course_name": "投资银行学",
+            "course_label": "经济学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "刘圣囡 陆桂贤 陈晓慧"
+        },
+        {
+            "course_id": "114",
+            "course_name": "风险投资与私募股权",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "杨安华"
+        },
+        {
+            "course_id": "115",
+            "course_name": "国际服务贸易",
+            "course_label": "经济学",
+            "course_affiliation": "北京第二外国语学院",
+            "course_teacher": "王海文"
+        },
+        {
+            "course_id": "116",
+            "course_name": "保险学",
+            "course_label": "经济学",
+            "course_affiliation": "上海财经大学",
+            "course_teacher": "钟明 曾旭东 冯玉林"
+        },
+        {
+            "course_id": "117",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "山东财经大学",
+            "course_teacher": "张笑玎 葛永波 孙莉"
+        },
+        {
+            "course_id": "118",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉科技大学",
+            "course_teacher": "余学斌"
+        },
+        {
+            "course_id": "119",
+            "course_name": "投资学",
+            "course_label": "经济学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "张中华 李建华 白小滢"
+        },
+        {
+            "course_id": "120",
+            "course_name": "公司兼并收购与重组",
+            "course_label": "经济学",
+            "course_affiliation": "上海财经大学",
+            "course_teacher": "李曜"
+        },
+        {
+            "course_id": "121",
+            "course_name": "中央银行与货币政策",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "郭红玉"
+        },
+        {
+            "course_id": "122",
+            "course_name": "国际经济法学",
+            "course_label": "法学",
+            "course_affiliation": "西南政法大学",
+            "course_teacher": "张晓君 田路 石晓玉"
+        },
+        {
+            "course_id": "123",
+            "course_name": "风险投资与创业融资",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "电子科技大学",
+            "course_teacher": "尹宇明 夏晖"
+        },
+        {
+            "course_id": "124",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "钟小林 王辉 胡军"
+        },
+        {
+            "course_id": "125",
+            "course_name": "投融资决策分析",
+            "course_label": "经济学",
+            "course_affiliation": "郑州升达经贸管理学院",
+            "course_teacher": "李新颖 何伟 何保国"
+        },
+        {
+            "course_id": "126",
+            "course_name": "新结构经济学",
+            "course_label": "经济学",
+            "course_affiliation": "北京大学",
+            "course_teacher": "林毅夫 付才辉"
+        },
+        {
+            "course_id": "127",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "郭大伟"
+        },
+        {
+            "course_id": "128",
+            "course_name": "公司战略与风险管理",
+            "course_label": "管理学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "魏晓雁"
+        },
+        {
+            "course_id": "129",
+            "course_name": "投资学",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "张维 严伟祥 陶可"
+        },
+        {
+            "course_id": "130",
+            "course_name": "税务会计",
+            "course_label": "",
+            "course_affiliation": "广州番禺职业技术学院",
+            "course_teacher": "黄玑 裴小妮 洪钒嘉"
+        },
+        {
+            "course_id": "131",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "山东财经大学",
+            "course_teacher": "张涛 朱炜 田彩英"
+        },
+        {
+            "course_id": "132",
+            "course_name": "当代大学生财经素养",
+            "course_label": "经济学",
+            "course_affiliation": "长江大学",
+            "course_teacher": "韦鸿 杨红 邹小芳"
+        },
+        {
+            "course_id": "133",
+            "course_name": "中级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "北京科技大学",
+            "course_teacher": "崔文娟"
+        },
+        {
+            "course_id": "134",
+            "course_name": "国际商务",
+            "course_label": "管理学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "王佳芥 王珏 宁南"
+        },
+        {
+            "course_id": "135",
+            "course_name": "中级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "荣莉 陈明坤 张洪辉"
+        },
+        {
+            "course_id": "136",
+            "course_name": "营运资金管理",
+            "course_label": "经济学",
+            "course_affiliation": "中国海洋大学",
+            "course_teacher": "王竹泉 孙莹 王苑琢"
+        },
+        {
+            "course_id": "137",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "陈红 张戡"
+        },
+        {
+            "course_id": "138",
+            "course_name": "从零开始学做理财",
+            "course_label": "",
+            "course_affiliation": "无锡城市职业技术学院",
+            "course_teacher": "刘凤娟 沈迪 周晓莲"
+        },
+        {
+            "course_id": "139",
+            "course_name": "创新经济学",
+            "course_label": "经济学",
+            "course_affiliation": "浙江师范大学",
+            "course_teacher": "林云"
+        },
+        {
+            "course_id": "140",
+            "course_name": "电子商务经济",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "北京交通大学",
+            "course_teacher": "沈孟如 曾进"
+        },
+        {
+            "course_id": "141",
+            "course_name": "“互联网+”创新应用",
+            "course_label": "管理学",
+            "course_affiliation": "山东工商学院",
+            "course_teacher": "谭玲玲 衣东丰 刘丹"
+        },
+        {
+            "course_id": "142",
+            "course_name": "例解宏观经济统计学",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "王静 罗良清 平卫英"
+        },
+        {
+            "course_id": "143",
+            "course_name": "中级宏观经济学",
+            "course_label": "经济学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "陈师"
+        },
+        {
+            "course_id": "144",
+            "course_name": "商业银行综合柜台业务",
+            "course_label": "",
+            "course_affiliation": "广州番禺职业技术学院",
+            "course_teacher": "吴娜 杨则文 吴秋蓉"
+        },
+        {
+            "course_id": "145",
+            "course_name": "经济法",
+            "course_label": "法学",
+            "course_affiliation": "上海交通大学",
+            "course_teacher": "王先林 李剑 侯利阳"
+        },
+        {
+            "course_id": "146",
+            "course_name": "市场微观结构",
+            "course_label": "经济学",
+            "course_affiliation": "上海外国语大学",
+            "course_teacher": "李路"
+        },
+        {
+            "course_id": "147",
+            "course_name": "财务报表分析与估值",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "俞鸿琳"
+        },
+        {
+            "course_id": "148",
+            "course_name": "国际结算操作",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "刘一展 范越龙 章安平"
+        },
+        {
+            "course_id": "149",
+            "course_name": "东南亚南亚商务",
+            "course_label": "管理学",
+            "course_affiliation": "云南师范大学",
+            "course_teacher": "韩越"
+        },
+        {
+            "course_id": "150",
+            "course_name": "股权投资基金与创业投融资",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "宋国良"
+        },
+        {
+            "course_id": "151",
+            "course_name": "财务报告（ACCA F7）",
+            "course_label": "管理学",
+            "course_affiliation": "西安交通大学",
+            "course_teacher": "王建玲"
+        },
+        {
+            "course_id": "152",
+            "course_name": "财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "钱爱民 刘雪娇 戴天婧"
+        },
+        {
+            "course_id": "153",
+            "course_name": "商业银行经营与管理",
+            "course_label": "经济学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "周毓萍"
+        },
+        {
+            "course_id": "154",
+            "course_name": "保险科技",
+            "course_label": "经济学",
+            "course_affiliation": "复旦大学",
+            "course_teacher": "许闲"
+        },
+        {
+            "course_id": "155",
+            "course_name": "中级财务会计（一）",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "哈尔滨工业大学",
+            "course_teacher": "高艳茹 李文华 段云"
+        },
+        {
+            "course_id": "156",
+            "course_name": "股权估值与趋势交易",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "严渝军"
+        },
+        {
+            "course_id": "157",
+            "course_name": "中级财务会计（1）",
+            "course_label": "管理学",
+            "course_affiliation": "中国矿业大学",
+            "course_teacher": "林爱梅 李文美 李秀枝"
+        },
+        {
+            "course_id": "158",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "华东交通大学",
+            "course_teacher": "邓小朱 谢晗进 韩士专"
+        },
+        {
+            "course_id": "159",
+            "course_name": "商业银行经营管理",
+            "course_label": "经济学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "王苹 高杰英 梁万泉"
+        },
+        {
+            "course_id": "160",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "宋淑琴 任翠玉 罗菲"
+        },
+        {
+            "course_id": "161",
+            "course_name": "物流学",
+            "course_label": "管理学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "刘浩华 吴群 王友丽"
+        },
+        {
+            "course_id": "162",
+            "course_name": "投资理财与生活",
+            "course_label": "经济学",
+            "course_affiliation": "福建农林大学",
+            "course_teacher": "郑海荣 蒋蔚 游碧蓉"
+        },
+        {
+            "course_id": "163",
+            "course_name": "概率论与统计学",
+            "course_label": "经济学",
+            "course_affiliation": "厦门大学",
+            "course_teacher": "洪永淼"
+        },
+        {
+            "course_id": "164",
+            "course_name": "国际货物运输与保险",
+            "course_label": "经济学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "胡俊芳"
+        },
+        {
+            "course_id": "165",
+            "course_name": "商业银行管理",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "166",
+            "course_name": "财务报表分析",
+            "course_label": "管理学",
+            "course_affiliation": "郑州大学",
+            "course_teacher": "张栋 郭战琴"
+        },
+        {
+            "course_id": "167",
+            "course_name": "电子商务安全",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "武汉大学",
+            "course_teacher": "曾子明"
+        },
+        {
+            "course_id": "168",
+            "course_name": "注册会计师审计",
+            "course_label": "管理学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "高圣荣 何芹 杨罡"
+        },
+        {
+            "course_id": "169",
+            "course_name": "会计学原理",
+            "course_label": "管理学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "邵瑞庆"
+        },
+        {
+            "course_id": "170",
+            "course_name": "财务会计",
+            "course_label": "",
+            "course_affiliation": "苏州信息职业技术学院",
+            "course_teacher": "陆亚娟"
+        },
+        {
+            "course_id": "171",
+            "course_name": "统计学",
+            "course_label": "经济学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "单薇 方茂中 陶爱元"
+        },
+        {
+            "course_id": "172",
+            "course_name": "应用回归分析",
+            "course_label": "经济学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "俞昊东 俞雪梨 王立庆"
+        },
+        {
+            "course_id": "173",
+            "course_name": "经济法学",
+            "course_label": "法学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "龙英锋 金鹏"
+        },
+        {
+            "course_id": "174",
+            "course_name": "经济生活与数学",
+            "course_label": "国家精品 理学 经济学",
+            "course_affiliation": "湖南大学",
+            "course_teacher": "杨湘豫"
+        },
+        {
+            "course_id": "175",
+            "course_name": "财务报表编制",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "福州大学",
+            "course_teacher": "陈朝晖 林小娟 颜艳"
+        },
+        {
+            "course_id": "176",
+            "course_name": "国际经济法",
+            "course_label": "法学",
+            "course_affiliation": "上海交通大学",
+            "course_teacher": "胡加祥"
+        },
+        {
+            "course_id": "177",
+            "course_name": "经济学基础",
+            "course_label": "",
+            "course_affiliation": "扬州市职业大学",
+            "course_teacher": "史艳娜"
+        },
+        {
+            "course_id": "178",
+            "course_name": "电子商务概论",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "河南牧业经济学院",
+            "course_teacher": "李艳菊 李建茹 杨玲"
+        },
+        {
+            "course_id": "179",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "应千伟"
+        },
+        {
+            "course_id": "180",
+            "course_name": "风险管理与保险",
+            "course_label": "经济学",
+            "course_affiliation": "上海财经大学",
+            "course_teacher": "粟芳"
+        },
+        {
+            "course_id": "181",
+            "course_name": "概率论与数理统计",
+            "course_label": "理学",
+            "course_affiliation": "北京交通大学",
+            "course_teacher": "赵平 付俐 桂文豪"
+        },
+        {
+            "course_id": "182",
+            "course_name": "创业融资",
+            "course_label": "管理学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "沈俊 王超 晏文胜"
+        },
+        {
+            "course_id": "183",
+            "course_name": "货币经济学",
+            "course_label": "经济学",
+            "course_affiliation": "复旦大学",
+            "course_teacher": "田素华"
+        },
+        {
+            "course_id": "184",
+            "course_name": "高级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "暨南大学",
+            "course_teacher": "谭小平 窦欢 石本仁"
+        },
+        {
+            "course_id": "185",
+            "course_name": "风险模型与非寿险精算学",
+            "course_label": "经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "谢远涛 李政宵"
+        },
+        {
+            "course_id": "186",
+            "course_name": "国际贸易学",
+            "course_label": "经济学",
+            "course_affiliation": "上海立信会计金融学院",
+            "course_teacher": "毕玉江"
+        },
+        {
+            "course_id": "187",
+            "course_name": "国际私法",
+            "course_label": "法学",
+            "course_affiliation": "上海交通大学",
+            "course_teacher": "徐冬根"
+        },
+        {
+            "course_id": "188",
+            "course_name": "投资与理财",
+            "course_label": "经济学",
+            "course_affiliation": "浙江工商大学",
+            "course_teacher": "周春喜 楼迎军 施建祥"
+        },
+        {
+            "course_id": "189",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "华北电力大学（保定）",
+            "course_teacher": "周建国"
+        },
+        {
+            "course_id": "190",
+            "course_name": "国际商务环境分析",
+            "course_label": "管理学",
+            "course_affiliation": "上海对外经贸大学",
+            "course_teacher": "景瑞琴 高运胜 汪建新"
+        },
+        {
+            "course_id": "191",
+            "course_name": "会计信息化2",
+            "course_label": "管理学",
+            "course_affiliation": "河南财政金融学院",
+            "course_teacher": "李爱红"
+        },
+        {
+            "course_id": "192",
+            "course_name": "电子商务那些事",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "刘新燕 陈瑞 彭红"
+        },
+        {
+            "course_id": "193",
+            "course_name": "电商与税收大数据应用",
+            "course_label": "工学",
+            "course_affiliation": "河南财政金融学院",
+            "course_teacher": "孙飞显 蔡艳 李德华"
+        },
+        {
+            "course_id": "194",
+            "course_name": "国际商法",
+            "course_label": "法学",
+            "course_affiliation": "山东财经大学",
+            "course_teacher": "王莉莉 肖夏"
+        },
+        {
+            "course_id": "195",
+            "course_name": "会计信息化1",
+            "course_label": "管理学",
+            "course_affiliation": "河南财政金融学院",
+            "course_teacher": "李爱红"
+        },
+        {
+            "course_id": "196",
+            "course_name": "税法",
+            "course_label": "",
+            "course_affiliation": "广州番禺职业技术学院",
+            "course_teacher": "杨则文 黄玑 刘水林"
+        },
+        {
+            "course_id": "197",
+            "course_name": "中级会计学",
+            "course_label": "管理学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "沈烈 王昌锐 陈丽红"
+        },
+        {
+            "course_id": "198",
+            "course_name": "大学生职业发展与就业指导（应用型）",
+            "course_label": "管理学",
+            "course_affiliation": "河南财政金融学院",
+            "course_teacher": "刘筠 田蕾 冯静"
+        },
+        {
+            "course_id": "199",
+            "course_name": "交换互联与网络发展",
+            "course_label": "计算机",
+            "course_affiliation": "河南财政金融学院",
+            "course_teacher": "罗东芳 孙惠娟 马杰"
+        },
+        {
+            "course_id": "200",
+            "course_name": "财务会计",
+            "course_label": "",
+            "course_affiliation": "淄博职业学院",
+            "course_teacher": "高丽萍 张桂春 吴丽娟"
+        },
+        {
+            "course_id": "201",
+            "course_name": "审计学",
+            "course_label": "管理学",
+            "course_affiliation": "南京审计大学金审学院",
+            "course_teacher": "仲怀公 尹平 闻佳凤"
+        },
+        {
+            "course_id": "202",
+            "course_name": "电子商务概论",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "武汉学院",
+            "course_teacher": "梅秀花 李祖兰 韦玮"
+        },
+        {
+            "course_id": "203",
+            "course_name": "零基础学Python人工智能",
+            "course_label": "计算机",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "刘经纬"
+        },
+        {
+            "course_id": "204",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "福建工程学院",
+            "course_teacher": "张积林"
+        },
+        {
+            "course_id": "205",
+            "course_name": "经济法理论与实务",
+            "course_label": "法学",
+            "course_affiliation": "浙江大学",
+            "course_teacher": "周黎明"
+        },
+        {
+            "course_id": "206",
+            "course_name": "财务会计（一）",
+            "course_label": "管理学",
+            "course_affiliation": "江苏财会职业学院",
+            "course_teacher": "王慧 张红梅 王淑敏"
+        },
+        {
+            "course_id": "207",
+            "course_name": "外贸单证操作",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "章安平"
+        },
+        {
+            "course_id": "208",
+            "course_name": "国际经济学（双语）",
+            "course_label": "经济学",
+            "course_affiliation": "山东工商学院",
+            "course_teacher": "姜爱英 张明 王冰心"
+        },
+        {
+            "course_id": "209",
+            "course_name": "玩转e时代",
+            "course_label": "计算机",
+            "course_affiliation": "郑州财税金融职业学院",
+            "course_teacher": "张金娜 卞孝丽 邹溢"
+        },
+        {
+            "course_id": "210",
+            "course_name": "财务会计学",
+            "course_label": "管理学",
+            "course_affiliation": "郑州航空工业管理学院",
+            "course_teacher": "王秀芬 王会兰 刘辉"
+        },
+        {
+            "course_id": "211",
+            "course_name": "宏观经济学",
+            "course_label": "经济学",
+            "course_affiliation": "武汉大学",
+            "course_teacher": "文建东"
+        },
+        {
+            "course_id": "212",
+            "course_name": "Photoshop平面设计",
+            "course_label": "",
+            "course_affiliation": "郑州财税金融职业学院",
+            "course_teacher": "赵艳莉 张岚岚 卢琦"
+        },
+        {
+            "course_id": "213",
+            "course_name": "交通事故理赔实务",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "胡少勇 汪洋 易艺"
+        },
+        {
+            "course_id": "214",
+            "course_name": "出口业务操作",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "张海燕"
+        },
+        {
+            "course_id": "215",
+            "course_name": "出口业务操作（二）--业务全流程操作",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "张海燕"
+        },
+        {
+            "course_id": "216",
+            "course_name": "出口业务操作（三）--争议处理与风险防范",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "张海燕"
+        },
+        {
+            "course_id": "217",
+            "course_name": "国贸那些事儿",
+            "course_label": "",
+            "course_affiliation": "深圳信息职业技术学院",
+            "course_teacher": "郭云云 卢晖 叶祥兵"
+        },
+        {
+            "course_id": "218",
+            "course_name": "绿色创新管理",
+            "course_label": "管理学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "刘璠 栗洋"
+        },
+        {
+            "course_id": "219",
+            "course_name": "基础会计",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "孔德兰 刘丽 张薇"
+        },
+        {
+            "course_id": "220",
+            "course_name": "大学生财商教育",
+            "course_label": "经济学",
+            "course_affiliation": "山东财经大学",
+            "course_teacher": "张士强 王龙"
+        },
+        {
+            "course_id": "221",
+            "course_name": "跨境电商实务",
+            "course_label": "",
+            "course_affiliation": "浙江金融职业学院",
+            "course_teacher": "肖旭"
+        },
+        {
+            "course_id": "222",
+            "course_name": "Internet应用基础",
+            "course_label": "",
+            "course_affiliation": "河北工业职业技术学院",
+            "course_teacher": "刘少坤 于丽娜 张晓玲"
+        },
+        {
+            "course_id": "223",
+            "course_name": "现代物流管理概论",
+            "course_label": "",
+            "course_affiliation": "武汉交通职业学院",
+            "course_teacher": "代湘荣 梁世翔 姬中英"
+        },
+        {
+            "course_id": "224",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "董必荣 路国平 黄中生"
+        },
+        {
+            "course_id": "225",
+            "course_name": "环境问题观察",
+            "course_label": "国家精品 工学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "张勇 陆文洋 周天舒"
+        },
+        {
+            "course_id": "226",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "上海对外经贸大学",
+            "course_teacher": "杨慧辉 宣扬 何开刚"
+        },
+        {
+            "course_id": "227",
+            "course_name": "投资项目评估与管理",
+            "course_label": "经济学",
+            "course_affiliation": "河北经贸大学",
+            "course_teacher": "李建英 王晓翌 杨雪美"
+        },
+        {
+            "course_id": "228",
+            "course_name": "商务英语",
+            "course_label": "外语",
+            "course_affiliation": "西安交通大学",
+            "course_teacher": "徐丽华"
+        },
+        {
+            "course_id": "229",
+            "course_name": "会计学原理",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "福州大学",
+            "course_teacher": "房桃峻 林兢 袁寒松"
+        },
+        {
+            "course_id": "230",
+            "course_name": "中国公司法",
+            "course_label": "法学",
+            "course_affiliation": "上海交通大学",
+            "course_teacher": "沈伟"
+        },
+        {
+            "course_id": "231",
+            "course_name": "财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "郑州工业应用技术学院",
+            "course_teacher": "刘丽 刘玉杰 宋娜"
+        },
+        {
+            "course_id": "232",
+            "course_name": "中级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "西南交通大学",
+            "course_teacher": "周奇志"
+        },
+        {
+            "course_id": "233",
+            "course_name": "以案说法",
+            "course_label": "法学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "陈军 石晓波 陈新"
+        },
+        {
+            "course_id": "234",
+            "course_name": "中级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "耿玮"
+        },
+        {
+            "course_id": "235",
+            "course_name": "政治经济学",
+            "course_label": "经济学",
+            "course_affiliation": "山东大学",
+            "course_teacher": "付强"
+        },
+        {
+            "course_id": "236",
+            "course_name": "国际经济学",
+            "course_label": "理学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "李婧 赵家章 黄灿"
+        },
+        {
+            "course_id": "237",
+            "course_name": "物理农业与创新",
+            "course_label": "理学",
+            "course_affiliation": "华中农业大学",
+            "course_teacher": "陈建军"
+        },
+        {
+            "course_id": "238",
+            "course_name": "公司理财",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "华中农业大学",
+            "course_teacher": "包晓岚 吴伟荣"
+        },
+        {
+            "course_id": "239",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "哈尔滨工业大学",
+            "course_teacher": "高艳茹"
+        },
+        {
+            "course_id": "240",
+            "course_name": "中国经济史研究理论与方法",
+            "course_label": "历史",
+            "course_affiliation": "云南大学",
+            "course_teacher": "林文勋 李伯重 黄纯艳"
+        },
+        {
+            "course_id": "241",
+            "course_name": "创业：道与术",
+            "course_label": "经济学",
+            "course_affiliation": "湖北长江互联网教育研究院",
+            "course_teacher": "汪军民"
+        },
+        {
+            "course_id": "242",
+            "course_name": "中级财务会计（三）",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "哈尔滨工业大学",
+            "course_teacher": "高艳茹 李文华 段云"
+        },
+        {
+            "course_id": "243",
+            "course_name": "中级财务会计（二）",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "哈尔滨工业大学",
+            "course_teacher": "高艳茹 段云 李文华"
+        },
+        {
+            "course_id": "244",
+            "course_name": "创业：道与术",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "汪军民"
+        },
+        {
+            "course_id": "245",
+            "course_name": "解读中国经济发展的密码",
+            "course_label": "经济学",
+            "course_affiliation": "同济大学",
+            "course_teacher": "石建勋 李永 李海英"
+        },
+        {
+            "course_id": "246",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "北京化工大学",
+            "course_teacher": "王淑慧 张爱美 周小梅"
+        },
+        {
+            "course_id": "247",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "法学",
+            "course_affiliation": "南开大学",
+            "course_teacher": "杨谦 刘明明 孙寿涛"
+        },
+        {
+            "course_id": "248",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "法学",
+            "course_affiliation": "北京化工大学",
+            "course_teacher": "张明国"
+        },
+        {
+            "course_id": "249",
+            "course_name": "法律基础",
+            "course_label": "法学",
+            "course_affiliation": "西南政法大学",
+            "course_teacher": "唐力 梅传强 王学辉"
+        },
+        {
+            "course_id": "250",
+            "course_name": "诺奖经济大师看世界",
+            "course_label": "经济学",
+            "course_affiliation": "南昌大学",
+            "course_teacher": "刘耀彬 温湖炜 钱晶晶"
+        },
+        {
+            "course_id": "251",
+            "course_name": "证券投资学",
+            "course_label": "经济学",
+            "course_affiliation": "山东大学",
+            "course_teacher": "高金窑"
+        },
+        {
+            "course_id": "252",
+            "course_name": "区块链与创新思维",
+            "course_label": "管理学",
+            "course_affiliation": "南京大学",
+            "course_teacher": "颜嘉麒"
+        },
+        {
+            "course_id": "253",
+            "course_name": "会计学原理",
+            "course_label": "外语 经济学",
+            "course_affiliation": "北京外国语大学",
+            "course_teacher": "王德宏"
+        },
+        {
+            "course_id": "254",
+            "course_name": "CPA财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "华中科技大学",
+            "course_teacher": "郭炜"
+        },
+        {
+            "course_id": "255",
+            "course_name": "推销原理与实务",
+            "course_label": "",
+            "course_affiliation": "江苏建筑职业技术学院",
+            "course_teacher": "沈滔 李玉祥 王彦"
+        },
+        {
+            "course_id": "256",
+            "course_name": "宏观经济学原理",
+            "course_label": "经济学",
+            "course_affiliation": "浙江工商大学",
+            "course_teacher": "赵英军 朱昊 周圆"
+        },
+        {
+            "course_id": "257",
+            "course_name": "统计模型与统计实验",
+            "course_label": "经济学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "王庚 詹鹏"
+        },
+        {
+            "course_id": "258",
+            "course_name": "经济学导论",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "施丹"
+        },
+        {
+            "course_id": "259",
+            "course_name": "商业模式创新",
+            "course_label": "经济学",
+            "course_affiliation": "山东财经大学",
+            "course_teacher": "刘鲁浩"
+        },
+        {
+            "course_id": "260",
+            "course_name": "大学文科数学",
+            "course_label": "理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "柴俊 贾挚 戴浩晖"
+        },
+        {
+            "course_id": "261",
+            "course_name": "西方经济学（微观）",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "张衔"
+        },
+        {
+            "course_id": "262",
+            "course_name": "一元微积分（II）",
+            "course_label": "理学",
+            "course_affiliation": "天津商业大学",
+            "course_teacher": "罗蕴玲 李乃华 李美凤"
+        },
+        {
+            "course_id": "263",
+            "course_name": "多元微积分",
+            "course_label": "理学",
+            "course_affiliation": "天津商业大学",
+            "course_teacher": "李乃华 罗蕴玲 唐文广"
+        },
+        {
+            "course_id": "264",
+            "course_name": "财务管理学",
+            "course_label": "管理学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "闫华红 王哲兵 孙静"
+        },
+        {
+            "course_id": "265",
+            "course_name": "商务英语翻译",
+            "course_label": "",
+            "course_affiliation": "扬州市职业大学",
+            "course_teacher": "张志祥 马道珍 杨帆"
+        },
+        {
+            "course_id": "266",
+            "course_name": "计量经济学",
+            "course_label": "国家精品 经济学",
+            "course_affiliation": "电子科技大学",
+            "course_teacher": "陈磊 杨政"
+        },
+        {
+            "course_id": "267",
+            "course_name": "英汉汉英商务翻译",
+            "course_label": "外语",
+            "course_affiliation": "华东政法大学",
+            "course_teacher": "伍巧芳"
+        },
+        {
+            "course_id": "268",
+            "course_name": "会计学基础",
+            "course_label": "经济学",
+            "course_affiliation": "东南大学",
+            "course_teacher": "陈菊花 陈良华 高凯丽"
+        },
+        {
+            "course_id": "269",
+            "course_name": "国际贸易实务",
+            "course_label": "经济学",
+            "course_affiliation": "九江学院",
+            "course_teacher": "刘佳"
+        },
+        {
+            "course_id": "270",
+            "course_name": "财经英语看世界",
+            "course_label": "外语",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "刘重霄 刘小溪 李冰"
+        },
+        {
+            "course_id": "271",
+            "course_name": "高级计量经济学",
+            "course_label": "经济学",
+            "course_affiliation": "厦门大学",
+            "course_teacher": "洪永淼 韩晓祎 许杏柏"
+        },
+        {
+            "course_id": "272",
+            "course_name": "保险学",
+            "course_label": "经济学",
+            "course_affiliation": "湖南大学",
+            "course_teacher": "陈迪红 刘革 邓庆彪"
+        },
+        {
+            "course_id": "273",
+            "course_name": "计量经济学基础与EViews软件操作",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "陶长琪 徐晔 廖迎"
+        },
+        {
+            "course_id": "274",
+            "course_name": "中级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "黄中生 何太明"
+        },
+        {
+            "course_id": "275",
+            "course_name": "西方经济学（宏观）",
+            "course_label": "经济学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "张衔"
+        },
+        {
+            "course_id": "276",
+            "course_name": "国际经济学（双语）",
+            "course_label": "经济学",
+            "course_affiliation": "西南石油大学",
+            "course_teacher": "陈雨柯"
+        },
+        {
+            "course_id": "277",
+            "course_name": "行为经济学",
+            "course_label": "经济学",
+            "course_affiliation": "北京大学",
+            "course_teacher": "孟涓涓"
+        },
+        {
+            "course_id": "278",
+            "course_name": "一元微积分",
+            "course_label": "理学",
+            "course_affiliation": "天津商业大学",
+            "course_teacher": "罗蕴玲 李乃华 李美凤"
+        },
+        {
+            "course_id": "279",
+            "course_name": "多元微积分（II）",
+            "course_label": "理学",
+            "course_affiliation": "天津商业大学",
+            "course_teacher": "李乃华 罗蕴玲 唐文广"
+        },
+        {
+            "course_id": "280",
+            "course_name": "房地产管理",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "281",
+            "course_name": "国际商务英语（口语与听力）",
+            "course_label": "外语",
+            "course_affiliation": "宁波工程学院",
+            "course_teacher": "莫群俐 闫森"
+        },
+        {
+            "course_id": "282",
+            "course_name": "“错误”的行为——你不可不知的行为经济学",
+            "course_label": "经济学",
+            "course_affiliation": "北京联合大学",
+            "course_teacher": "史丽媛"
+        },
+        {
+            "course_id": "283",
+            "course_name": "保险学",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "刘妍 唐汇龙 吉玉荣"
+        },
+        {
+            "course_id": "284",
+            "course_name": "高等数学（三）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "同济大学",
+            "course_teacher": "张弢 李少华 兰辉"
+        },
+        {
+            "course_id": "285",
+            "course_name": "中国税制",
+            "course_label": "经济学",
+            "course_affiliation": "浙江财经大学",
+            "course_teacher": "司言武 董根泰 张帆"
+        },
+        {
+            "course_id": "286",
+            "course_name": "税法",
+            "course_label": "法学",
+            "course_affiliation": "河南经贸职业学院",
+            "course_teacher": "王延召 孙进鹏 许庆建"
+        },
+        {
+            "course_id": "287",
+            "course_name": "Python语言程序设计",
+            "course_label": "计算机",
+            "course_affiliation": "东北大学",
+            "course_teacher": "张昱老师 薛丽芳 翟莹莹"
+        },
+        {
+            "course_id": "288",
+            "course_name": "计量经济学导论",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "289",
+            "course_name": "人工智能产业应用前沿",
+            "course_label": "计算机",
+            "course_affiliation": "文安智能",
+            "course_teacher": "林宇"
+        },
+        {
+            "course_id": "290",
+            "course_name": "商务英语写作实践",
+            "course_label": "外语",
+            "course_affiliation": "中北大学",
+            "course_teacher": "芮燕萍 白瑞 赵晓霞"
+        },
+        {
+            "course_id": "291",
+            "course_name": "时间序列分析",
+            "course_label": "经济学",
+            "course_affiliation": "中南财经政法大学",
+            "course_teacher": "汪家义 魏金龙 肖健"
+        },
+        {
+            "course_id": "292",
+            "course_name": "国际贸易实务",
+            "course_label": "经济学",
+            "course_affiliation": "江西师范大学",
+            "course_teacher": "熊智伟 李翠 李一可"
+        },
+        {
+            "course_id": "293",
+            "course_name": "概率论与数理统计",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "294",
+            "course_name": "经管类专业综合实验",
+            "course_label": "经济学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "李幸"
+        },
+        {
+            "course_id": "295",
+            "course_name": "高等数学（二）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "同济大学",
+            "course_teacher": "朱晓平 濮燕敏 黄长水"
+        },
+        {
+            "course_id": "296",
+            "course_name": "数字逻辑电路",
+            "course_label": "工学",
+            "course_affiliation": "西安交通大学",
+            "course_teacher": "朱正东 符均 田琛"
+        },
+        {
+            "course_id": "297",
+            "course_name": "创业投资",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "298",
+            "course_name": "数据思维",
+            "course_label": "管理学",
+            "course_affiliation": "南京大学",
+            "course_teacher": "胡广伟 康乐乐 颜嘉麒"
+        },
+        {
+            "course_id": "299",
+            "course_name": "高等数学（四）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "同济大学",
+            "course_teacher": "兰辉 孙娟娟 李忠华"
+        },
+        {
+            "course_id": "300",
+            "course_name": "创业财务",
+            "course_label": "管理学",
+            "course_affiliation": "中国社会科学院大学",
+            "course_teacher": "王艳茹"
+        },
+        {
+            "course_id": "301",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "法学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "舒前毅 黄欣荣 罗贤娇"
+        },
+        {
+            "course_id": "302",
+            "course_name": "供应链管理",
+            "course_label": "管理学",
+            "course_affiliation": "江苏城市职业学院",
+            "course_teacher": "高秋萍"
+        },
+        {
+            "course_id": "303",
+            "course_name": "嵌入式系统及应用",
+            "course_label": "计算机",
+            "course_affiliation": "电子科技大学",
+            "course_teacher": "罗蕾 陈丽蓉 王丽杰"
+        },
+        {
+            "course_id": "304",
+            "course_name": "农产品电子商务与新零售",
+            "course_label": "",
+            "course_affiliation": "苏州农业职业技术学院",
+            "course_teacher": "庄诚"
+        },
+        {
+            "course_id": "305",
+            "course_name": "中级财务会计（一）",
+            "course_label": "管理学",
+            "course_affiliation": "南京理工大学泰州科技学院",
+            "course_teacher": "张敬明 顾雪玲 王丽艳"
+        },
+        {
+            "course_id": "306",
+            "course_name": "网络营销",
+            "course_label": "经济学",
+            "course_affiliation": "河南工业职业技术学院",
+            "course_teacher": "卢秋萍 赵蕾 徐征"
+        },
+        {
+            "course_id": "307",
+            "course_name": "Corporate Finance",
+            "course_label": "经济学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "许志"
+        },
+        {
+            "course_id": "308",
+            "course_name": "国际商务理论与在中国的应用",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "王珏 刘园园 杨娜"
+        },
+        {
+            "course_id": "309",
+            "course_name": "高等数学（一）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "同济大学",
+            "course_teacher": "周朝晖 张华隆 陆林生"
+        },
+        {
+            "course_id": "310",
+            "course_name": "高级法语",
+            "course_label": "外语",
+            "course_affiliation": "上海外国语大学",
+            "course_teacher": "朱燕"
+        },
+        {
+            "course_id": "311",
+            "course_name": "创业基础",
+            "course_label": "管理学",
+            "course_affiliation": "西北农林科技大学",
+            "course_teacher": "汪红梅 同海梅"
+        },
+        {
+            "course_id": "312",
+            "course_name": "高级财务会计",
+            "course_label": "管理学",
+            "course_affiliation": "浙江师范大学",
+            "course_teacher": "罗素清"
+        },
+        {
+            "course_id": "313",
+            "course_name": "国际贸易实务（双语）",
+            "course_label": "经济学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "杨智华 张小衡"
+        },
+        {
+            "course_id": "314",
+            "course_name": "远洋业务与海商法",
+            "course_label": "工学",
+            "course_affiliation": "集美大学",
+            "course_teacher": "辛林 邓丽娟 邹鸰"
+        },
+        {
+            "course_id": "315",
+            "course_name": "创新管理",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "浙江大学",
+            "course_teacher": "郑刚 郭斌 金珺"
+        },
+        {
+            "course_id": "316",
+            "course_name": "政治经济学",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "胡德龙 龚立新 杨勇"
+        },
+        {
+            "course_id": "317",
+            "course_name": "会计学原理",
+            "course_label": "管理学",
+            "course_affiliation": "复旦大学",
+            "course_teacher": "徐晔 余显财 沈红波"
+        },
+        {
+            "course_id": "318",
+            "course_name": "会计学（面向非会计专业学生）",
+            "course_label": "管理学",
+            "course_affiliation": "中央财经大学",
+            "course_teacher": "赵雪媛 李晓梅 王淑芳"
+        },
+        {
+            "course_id": "319",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "法学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "龚咏梅 闫方洁 速继明"
+        },
+        {
+            "course_id": "320",
+            "course_name": "近代外交舞台上的中国人",
+            "course_label": "历史",
+            "course_affiliation": "湘潭大学",
+            "course_teacher": "黄小用 熊慧"
+        },
+        {
+            "course_id": "321",
+            "course_name": "理解马克思",
+            "course_label": "国家精品 哲学 公共基础类",
+            "course_affiliation": "南京大学",
+            "course_teacher": "张亮 周嘉昕 孙乐强"
+        },
+        {
+            "course_id": "322",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "法学",
+            "course_affiliation": "河北科技大学",
+            "course_teacher": "张会蔚 甘玲 崔赞梅"
+        },
+        {
+            "course_id": "323",
+            "course_name": "MIB国际商务",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "浙江工商大学",
+            "course_teacher": "朱勤 赵英军 王永齐"
+        },
+        {
+            "course_id": "324",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "法学",
+            "course_affiliation": "华中师范大学",
+            "course_teacher": "丁茜 赵凌云 杨足仪"
+        },
+        {
+            "course_id": "325",
+            "course_name": "建筑结构抗震",
+            "course_label": "工学",
+            "course_affiliation": "同济大学",
+            "course_teacher": "熊海贝 鲁正 任晓崧"
+        },
+        {
+            "course_id": "326",
+            "course_name": "中国土地制度概论",
+            "course_label": "管理学",
+            "course_affiliation": "浙江大学",
+            "course_teacher": "田传浩"
+        },
+        {
+            "course_id": "327",
+            "course_name": "财务分析",
+            "course_label": "管理学",
+            "course_affiliation": "华中农业大学",
+            "course_teacher": "肖华芳 袁春生"
+        },
+        {
+            "course_id": "328",
+            "course_name": "人工智能与信息社会",
+            "course_label": "计算机",
+            "course_affiliation": "北京大学",
+            "course_teacher": "陈斌"
+        },
+        {
+            "course_id": "329",
+            "course_name": "跨境电商",
+            "course_label": "经济学",
+            "course_affiliation": "北京联合大学",
+            "course_teacher": "郑春芳 田园"
+        },
+        {
+            "course_id": "330",
+            "course_name": "经济地理学",
+            "course_label": "经济学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "曾刚 孔翔 滕堂伟"
+        },
+        {
+            "course_id": "331",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "浙江工商大学",
+            "course_teacher": "罗金明 胡霞 苏芝"
+        },
+        {
+            "course_id": "332",
+            "course_name": "中国地理",
+            "course_label": "理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "王列辉 蒋雪中 滕堂伟"
+        },
+        {
+            "course_id": "333",
+            "course_name": "创业企业法律问题面面观",
+            "course_label": "法学",
+            "course_affiliation": "集美大学",
+            "course_teacher": "许翠霞 罗施福 周振春"
+        },
+        {
+            "course_id": "334",
+            "course_name": "马克思主义基本原理概论",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "335",
+            "course_name": "高级物流学",
+            "course_label": "管理学",
+            "course_affiliation": "长安大学",
+            "course_teacher": "董千里 李毅斌"
+        },
+        {
+            "course_id": "336",
+            "course_name": "团队管理",
+            "course_label": "",
+            "course_affiliation": "无锡商业职业技术学院",
+            "course_teacher": "陈锋 徐汉文 袁玉玲"
+        },
+        {
+            "course_id": "337",
+            "course_name": "出口行销学",
+            "course_label": "经济学",
+            "course_affiliation": "河北经贸大学",
+            "course_teacher": "张希颖 张少楠 殷向晖"
+        },
+        {
+            "course_id": "338",
+            "course_name": "创新创业创富—财商素养训练",
+            "course_label": "管理学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "苗莉 刘佳 陈文婷"
+        },
+        {
+            "course_id": "339",
+            "course_name": "保险学",
+            "course_label": "经济学",
+            "course_affiliation": "首都经济贸易大学",
+            "course_teacher": "李文中 张小红 张欲晓"
+        },
+        {
+            "course_id": "340",
+            "course_name": "客户关系管理",
+            "course_label": "管理学",
+            "course_affiliation": "郑州财经学院",
+            "course_teacher": "张柯 崔小俊 郭瑞强"
+        },
+        {
+            "course_id": "341",
+            "course_name": "国民经济统计学",
+            "course_label": "经济学",
+            "course_affiliation": "东北财经大学",
+            "course_teacher": "杨仲山 徐强 刘颖"
+        },
+        {
+            "course_id": "342",
+            "course_name": "国际贸易理论与政策",
+            "course_label": "",
+            "course_affiliation": "扬州市职业大学",
+            "course_teacher": "刘正良 刘衎"
+        },
+        {
+            "course_id": "343",
+            "course_name": "财政学",
+            "course_label": "经济学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "裴育 欧阳华生 曾宪影"
+        },
+        {
+            "course_id": "344",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "姚文韵"
+        },
+        {
+            "course_id": "345",
+            "course_name": "宏观经济学",
+            "course_label": "经济学",
+            "course_affiliation": "北京理工大学",
+            "course_teacher": "侯高岚"
+        },
+        {
+            "course_id": "346",
+            "course_name": "电子商务",
+            "course_label": "经济学 管理学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "何跃"
+        },
+        {
+            "course_id": "347",
+            "course_name": "移动商务",
+            "course_label": "",
+            "course_affiliation": "扬州市职业大学",
+            "course_teacher": "于斐 唐彩虹"
+        },
+        {
+            "course_id": "348",
+            "course_name": "国际贸易实务",
+            "course_label": "经济学",
+            "course_affiliation": "河南工业大学",
+            "course_teacher": "吕玉花 马松林 高美玲"
+        },
+        {
+            "course_id": "349",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "西南交通大学",
+            "course_teacher": "胡杨"
+        },
+        {
+            "course_id": "350",
+            "course_name": "刑法学",
+            "course_label": "法学",
+            "course_affiliation": "华东政法大学",
+            "course_teacher": "王恩海 刘宪权 马寅翔"
+        },
+        {
+            "course_id": "351",
+            "course_name": "商法学",
+            "course_label": "法学",
+            "course_affiliation": "暨南大学",
+            "course_teacher": "朱义坤 方赛迎 李支"
+        },
+        {
+            "course_id": "352",
+            "course_name": "成本会计学",
+            "course_label": "管理学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "熊凌云 郭小金 张绪军"
+        },
+        {
+            "course_id": "353",
+            "course_name": "统计学",
+            "course_label": "经济学",
+            "course_affiliation": "郑州大学",
+            "course_teacher": "郭国峰 左宇晓 肖占峰"
+        },
+        {
+            "course_id": "354",
+            "course_name": "算法与数据结构",
+            "course_label": "计算机",
+            "course_affiliation": "江西师范大学",
+            "course_teacher": "吴福英 龚俊 曾雪强"
+        },
+        {
+            "course_id": "355",
+            "course_name": "SAS统计分析及应用",
+            "course_label": "计算机",
+            "course_affiliation": "武汉大学",
+            "course_teacher": "滕冲 何宁"
+        },
+        {
+            "course_id": "356",
+            "course_name": "运筹学",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "刘满凤 王翠霞 万树平"
+        },
+        {
+            "course_id": "357",
+            "course_name": "信号与线性系统",
+            "course_label": "工学",
+            "course_affiliation": "华中科技大学",
+            "course_teacher": "宋琪 陆三兰 文灏"
+        },
+        {
+            "course_id": "358",
+            "course_name": "概率论",
+            "course_label": "理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "许忠好 危佳钦 李育强"
+        },
+        {
+            "course_id": "359",
+            "course_name": "商务智能",
+            "course_label": "管理学",
+            "course_affiliation": "西南财经大学",
+            "course_teacher": "李瑾坤"
+        },
+        {
+            "course_id": "360",
+            "course_name": "零基础学Linux操作系统",
+            "course_label": "计算机",
+            "course_affiliation": "常州大学",
+            "course_teacher": "庄丽华 徐守坤 石林"
+        },
+        {
+            "course_id": "361",
+            "course_name": "高级语言程序设计",
+            "course_label": "计算机",
+            "course_affiliation": "浙江工商大学",
+            "course_teacher": "谢满德"
+        },
+        {
+            "course_id": "362",
+            "course_name": "酒店运营管理",
+            "course_label": "管理学",
+            "course_affiliation": "北京联合大学",
+            "course_teacher": "罗东霞 陈涵 田彤"
+        },
+        {
+            "course_id": "363",
+            "course_name": "市场营销",
+            "course_label": "国家精品 管理学",
+            "course_affiliation": "四川大学",
+            "course_teacher": "左仁淑"
+        },
+        {
+            "course_id": "364",
+            "course_name": "经济数学—概率论与数理统计",
+            "course_label": "理学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "彭凯 王展青 江登英"
+        },
+        {
+            "course_id": "365",
+            "course_name": "微积分（二）",
+            "course_label": "理学",
+            "course_affiliation": "江西师范大学",
+            "course_teacher": "曾广洪 桂国祥 唐小娟"
+        },
+        {
+            "course_id": "366",
+            "course_name": "项目管理",
+            "course_label": "管理学",
+            "course_affiliation": "西北工业大学",
+            "course_teacher": "白思俊 郭云涛 张识宇"
+        },
+        {
+            "course_id": "367",
+            "course_name": "数学分析（五）",
+            "course_label": "理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "柴俊 戴浩晖 庞学诚"
+        },
+        {
+            "course_id": "368",
+            "course_name": "财务管理",
+            "course_label": "经济学",
+            "course_affiliation": "徐州工程学院",
+            "course_teacher": "成兵 陈艳杰 张阿曼"
+        },
+        {
+            "course_id": "369",
+            "course_name": "数学分析（二）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "柴俊 庞学诚 吴畏"
+        },
+        {
+            "course_id": "370",
+            "course_name": "中小企业咨询策划服务解决方案",
+            "course_label": "管理学",
+            "course_affiliation": "北京交通大学",
+            "course_teacher": "魏文超"
+        },
+        {
+            "course_id": "371",
+            "course_name": "概率论与数理统计",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "天津大学",
+            "course_teacher": "关静 王凤雨 杨玲玲"
+        },
+        {
+            "course_id": "372",
+            "course_name": "区块链中的密码学",
+            "course_label": "计算机",
+            "course_affiliation": "中国人民解放军陆军工程大学",
+            "course_teacher": "徐伟光"
+        },
+        {
+            "course_id": "373",
+            "course_name": "国际商法",
+            "course_label": "法学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "石静霞"
+        },
+        {
+            "course_id": "374",
+            "course_name": "数学分析（三）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "柴俊 吴畏 庞学诚"
+        },
+        {
+            "course_id": "375",
+            "course_name": "科学计算与MATLAB语言",
+            "course_label": "计算机",
+            "course_affiliation": "中南大学",
+            "course_teacher": "刘卫国 蔡旭晖 吕格莉"
+        },
+        {
+            "course_id": "376",
+            "course_name": "经济数学—微积分（一）",
+            "course_label": "理学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "韩华 吴传生 何　朗"
+        },
+        {
+            "course_id": "377",
+            "course_name": "微积分（一）",
+            "course_label": "理学",
+            "course_affiliation": "江西师范大学",
+            "course_teacher": "曾广洪 桂国祥 严淑梅"
+        },
+        {
+            "course_id": "378",
+            "course_name": "计算机系统局限性",
+            "course_label": "计算机",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "何积丰 金博 李钦"
+        },
+        {
+            "course_id": "379",
+            "course_name": "概率论与数理统计",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "西安交通大学",
+            "course_teacher": "赵小艳 戴永红 王峰"
+        },
+        {
+            "course_id": "380",
+            "course_name": "财务报表分析",
+            "course_label": "管理学",
+            "course_affiliation": "福州大学",
+            "course_teacher": "陈朝晖"
+        },
+        {
+            "course_id": "381",
+            "course_name": "数学分析（一）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "柴俊 庞学诚 吴畏"
+        },
+        {
+            "course_id": "382",
+            "course_name": "微观经济学",
+            "course_label": "经济学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "王秋石 李国民 张利国"
+        },
+        {
+            "course_id": "383",
+            "course_name": "微观经济学",
+            "course_label": "经济学",
+            "course_affiliation": "西安交通大学",
+            "course_teacher": "雍岚 黎洁 杨小军"
+        },
+        {
+            "course_id": "384",
+            "course_name": "经济数学—微积分（二）",
+            "course_label": "理学",
+            "course_affiliation": "武汉理工大学",
+            "course_teacher": "韩华 吴传生 何　朗"
+        },
+        {
+            "course_id": "385",
+            "course_name": "概率论与数理统计",
+            "course_label": "理学",
+            "course_affiliation": "对外经济贸易大学",
+            "course_teacher": "张立卓 刘立新 叶文锐"
+        },
+        {
+            "course_id": "386",
+            "course_name": "数学分析（六）",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "387",
+            "course_name": "数学分析（四）",
+            "course_label": "国家精品 理学",
+            "course_affiliation": "华东师范大学",
+            "course_teacher": "柴俊 庞学诚 戴浩晖"
+        },
+        {
+            "course_id": "388",
+            "course_name": "当代世界经济与政治",
+            "course_label": "法学",
+            "course_affiliation": "河南理工大学",
+            "course_teacher": "王威 马莉 孔祥增"
+        },
+        {
+            "course_id": "389",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "信阳学院",
+            "course_teacher": "刘建中 刘磊 李晓娜"
+        },
+        {
+            "course_id": "390",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "西南石油大学",
+            "course_teacher": "庞敏 谢苇 张蕊"
+        },
+        {
+            "course_id": "391",
+            "course_name": "大学生创新与创业",
+            "course_label": "管理学",
+            "course_affiliation": "濮阳职业技术学院",
+            "course_teacher": "梁红波 谭丁 刘晓莉"
+        },
+        {
+            "course_id": "392",
+            "course_name": "信息管理学",
+            "course_label": "管理学",
+            "course_affiliation": "河海大学",
+            "course_teacher": "杜栋 蒋亚东 庞庆华"
+        },
+        {
+            "course_id": "393",
+            "course_name": "Java程序设计",
+            "course_label": "工学",
+            "course_affiliation": "河南职业技术学院",
+            "course_teacher": "李纪云 孙钢 李娜"
+        },
+        {
+            "course_id": "394",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "宁波财经学院",
+            "course_teacher": "陈宏 仲春梅 任黛藤"
+        },
+        {
+            "course_id": "395",
+            "course_name": "现代物流概论",
+            "course_label": "管理学",
+            "course_affiliation": "武汉铁路职业技术学院",
+            "course_teacher": "王爽 赵艳 赵智锋"
+        },
+        {
+            "course_id": "396",
+            "course_name": "财务管理",
+            "course_label": "管理学",
+            "course_affiliation": "南京审计大学",
+            "course_teacher": "马德林 胡苏"
+        },
+        {
+            "course_id": "397",
+            "course_name": "会计学",
+            "course_label": "管理学",
+            "course_affiliation": "华东交通大学",
+            "course_teacher": "李雄飞 李冬伟 王芸"
+        },
+        {
+            "course_id": "398",
+            "course_name": "电信大数据导论",
+            "course_label": "",
+            "course_affiliation": "南京邮电大学",
+            "course_teacher": "孟庆民"
+        },
+        {
+            "course_id": "399",
+            "course_name": "中小企业会计信息化实战——畅捷通T+云平台",
+            "course_label": "理学",
+            "course_affiliation": "河南林业职业学院",
+            "course_teacher": "张淑英 孟琛 张廷玉"
+        },
+        {
+            "course_id": "400",
+            "course_name": "创新创业投融资决策",
+            "course_label": "管理学",
+            "course_affiliation": "常州大学",
+            "course_teacher": "王卫星 王一舒"
+        },
+        {
+            "course_id": "401",
+            "course_name": "数学分析",
+            "course_label": "理学",
+            "course_affiliation": "扬州大学",
+            "course_teacher": "李刚 黄强联 凡震彬"
+        },
+        {
+            "course_id": "402",
+            "course_name": "电子商务理论与实践",
+            "course_label": "",
+            "course_affiliation": "福建江夏学院",
+            "course_teacher": "马莉婷 陈宇 林宝灯"
+        },
+        {
+            "course_id": "403",
+            "course_name": "发展与教育心理学",
+            "course_label": "心理学",
+            "course_affiliation": "福建师范大学",
+            "course_teacher": "连榕 游艳华"
+        },
+        {
+            "course_id": "404",
+            "course_name": "中级财务会计（2）",
+            "course_label": "管理学",
+            "course_affiliation": "中国矿业大学",
+            "course_teacher": "林爱梅 李文美 张亚杰"
+        },
+        {
+            "course_id": "405",
+            "course_name": "基础会计",
+            "course_label": "管理学",
+            "course_affiliation": "郑州升达经贸管理学院",
+            "course_teacher": "张欣 陶慧芳 刘静淑"
+        },
+        {
+            "course_id": "406",
+            "course_name": "概率论与数理统计",
+            "course_label": "理学",
+            "course_affiliation": "江西财经大学",
+            "course_teacher": "罗世华 谭利 刘小惠"
+        },
+        {
+            "course_id": "407",
+            "course_name": "农业政策学",
+            "course_label": "管理学",
+            "course_affiliation": "南京农业大学",
+            "course_teacher": "林光华 苗齐"
+        },
+        {
+            "course_id": "408",
+            "course_name": "微积分 （下）",
+            "course_label": "理学",
+            "course_affiliation": "郑州升达经贸管理学院",
+            "course_teacher": "张志银 焦争鸣 时文俊"
+        },
+        {
+            "course_id": "409",
+            "course_name": "经济数学应用基础1",
+            "course_label": "",
+            "course_affiliation": "商丘职业技术学院",
+            "course_teacher": "闫杰生 张秀英 陈元安"
+        },
+        {
+            "course_id": "410",
+            "course_name": "国际经济学",
+            "course_label": "经济学",
+            "course_affiliation": "南京财经大学",
+            "course_teacher": "张为付 谢正勤 杜运苏"
+        },
+        {
+            "course_id": "411",
+            "course_name": "当代美国社会与文化",
+            "course_label": "外语",
+            "course_affiliation": "广东外语外贸大学",
+            "course_teacher": "韩锐 Robert Tindol Joshua Jacob Isaacs"
+        },
+        {
+            "course_id": "412",
+            "course_name": "数学分析（二）",
+            "course_label": "理学",
+            "course_affiliation": "闽南师范大学",
+            "course_teacher": "李克典 黄韩亮 李建喜"
+        },
+        {
+            "course_id": "413",
+            "course_name": "微积分 （上）",
+            "course_label": "理学",
+            "course_affiliation": "郑州升达经贸管理学院",
+            "course_teacher": "张志银 焦争鸣 时文俊"
+        },
+        {
+            "course_id": "414",
+            "course_name": "概率论与数理统计",
+            "course_label": "",
+            "course_affiliation": "",
+            "course_teacher": ""
+        },
+        {
+            "course_id": "415",
+            "course_name": "国际贸易结算",
+            "course_label": "经济学",
+            "course_affiliation": "河南财经政法大学",
+            "course_teacher": "娄钰"
+        },
+        {
+            "course_id": "416",
+            "course_name": "概率论与数理统计",
+            "course_label": "理学",
+            "course_affiliation": "盐城师范学院",
+            "course_teacher": "张爱武 李万斌 袁兰兰"
+        },
+        {
+            "course_id": "417",
+            "course_name": "线性代数",
+            "course_label": "",
+            "course_affiliation": "华侨大学",
+            "course_teacher": "谢小贤"
+        },
+        {
+            "course_id": "418",
+            "course_name": "嵌入式Linux应用与开发实践",
+            "course_label": "",
+            "course_affiliation": "江苏信息职业技术学院",
+            "course_teacher": "平震宇 匡亮 凌路"
+        },
+        {
+            "course_id": "419",
+            "course_name": "云物大智基础",
+            "course_label": "工学",
+            "course_affiliation": "柳州职业技术学院",
+            "course_teacher": "张爱科 阳明霞 李瑞娟"
+        },
+        {
+            "course_id": "420",
+            "course_name": "概率论与数理统计",
+            "course_label": "理学",
+            "course_affiliation": "河北经贸大学",
+            "course_teacher": "陈英伟 王钥 张良勇"
+        },
+        {
+            "course_id": "421",
+            "course_name": "高等代数",
+            "course_label": "理学",
+            "course_affiliation": "盐城师范学院",
+            "course_teacher": "张勇 郭曙光 朱世平"
+        },
+        {
+            "course_id": "422",
+            "course_name": "系统工程导论",
+            "course_label": "",
+            "course_affiliation": "南京航空航天大学",
+            "course_teacher": "周德群 王群伟 章玲"
+        },
+        {
+            "course_id": "423",
+            "course_name": "电子商务基础与实战",
+            "course_label": "经济学",
+            "course_affiliation": "许昌职业技术学院",
+            "course_teacher": "宋沛军 赵露洁 夏朋举"
+        },
+        {
+            "course_id": "424",
+            "course_name": "经济法学",
+            "course_label": "法学",
+            "course_affiliation": "河南财经政法大学",
+            "course_teacher": "刘欣然 杜晓丽 虎岩"
+        },
+        {
+            "course_id": "425",
+            "course_name": "数学分析（三）",
+            "course_label": "理学",
+            "course_affiliation": "闽南师范大学",
+            "course_teacher": "李克典 黄韩亮 李建喜"
+        },
+        {
+            "course_id": "426",
+            "course_name": "税费计算与申报",
+            "course_label": "",
+            "course_affiliation": "承德石油高等专科学校",
+            "course_teacher": "郭春娟 宋宝瑞 刘啸尘"
+        },
+        {
+            "course_id": "427",
+            "course_name": "数学分析（一）",
+            "course_label": "理学",
+            "course_affiliation": "闽南师范大学",
+            "course_teacher": "李克典 黄韩亮 李建喜"
+        },
+        {
+            "course_id": "428",
+            "course_name": "会计电算化",
+            "course_label": "",
+            "course_affiliation": "河北软件职业技术学院",
+            "course_teacher": "胡汉祥 张照枫 张慧娟"
+        },
+        {
+            "course_id": "429",
+            "course_name": "军事课（军事理论与军训理论知识）",
+            "course_label": "教育教学",
+            "course_affiliation": "福建农林大学",
+            "course_teacher": "刘文炳"
+        },
+        {
+            "course_id": "430",
+            "course_name": "信息安全素养——移动终端安全",
+            "course_label": "",
+            "course_affiliation": "职教MOOC建设委员会",
+            "course_teacher": "贾艳光 胡志齐 吴民"
+        }
+    ]
+}
